@@ -9,7 +9,7 @@ This script is for a robot I built and programmed in the game Space Engineers. T
 - Part way through the step of each leg, it will trigger the leg behind it to start its step
 - The pitch and roll joints between segments will move freely with some resistance
 - The yaw joints between segments will move in the direction the user is steering
-- There is also a system for tracking the passing of time in the simulation (the game will simulate in slower than real-time if there is too much activity to manage) This system uses a rotor that rotates at a constant rate to calculate the exact amount of time simulated since it was last run. This is necessary because the method used to periodically run the program is not exactly regular.
+- There is also a system for tracking the passing of time in the simulation (the game will simulate in slower than real-time if there is too much activity to manage). This system monitors a rotor that rotates at a constant rate to calculate the exact amount of time simulated since it was last run. This is necessary because the method used to periodically run the program is not exactly regular.
 
 ### Links
 Centipede Robot: https://steamcommunity.com/sharedfiles/filedetails/?id=2148426014  
