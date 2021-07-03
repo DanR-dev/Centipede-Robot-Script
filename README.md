@@ -1,6 +1,6 @@
 # Centipede-Script
 
-This script is for a robot I built and programmed in the game Space Engineers. The robot is a giant centipede-like walker that was designed to be able to cross difficult terrain. The game has a built in C# API that allows scripts to control in-game vehicles and vehicle components.
+This script is for a robot I built and programmed in the game Space Engineers. The game has a built in C# API that allows scripts to control in-game vehicles and vehicle components. The robot is a giant centipede-like walker that was designed to be able to cross difficult terrain. 
 
 ### How it Works
 - The centipede is made up of 16 segments, each with 2 legs and each joined to the next by joints in 3 axes
