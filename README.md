@@ -1,4 +1,4 @@
-# Centipede-Script
+# Centipede-Robot-Script
 
 This script is for a robot I built and programmed in the game Space Engineers. The game has a built in C# API that allows scripts to control in-game vehicles and vehicle components. The robot is a giant centipede-like walker that was designed to be able to cross difficult terrain. 
 
